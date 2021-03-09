@@ -2,7 +2,7 @@
 
 **Author**: Vivienne DiFrancesco
 
-The contents of this repository detail an analysis of classification of Tanzanian water wells as either functional, non functional, or needs repair. This analysis is detailed in hopes of making the work accessible and replicable. A Tableau Public story was created in companion with this project and can be found here: https://public.tableau.com/profile/vivienne4370
+The contents of this repository detail an analysis of classification of Tanzanian water wells as either functional, non functional, or needs repair. This analysis is detailed in hopes of making the work accessible and replicable. A Tableau Public story was created in companion with this project and can be found here: https://public.tableau.com/profile/vivienned
 
 ## Repository Structure
 
